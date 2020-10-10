@@ -6,6 +6,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class TodoApiApplicationTests {
 
+	// this is the test class
+
 	@Test
 	void contextLoads() {
 	}
